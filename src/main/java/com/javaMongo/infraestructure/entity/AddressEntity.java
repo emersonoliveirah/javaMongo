@@ -16,7 +16,7 @@ public class AddressEntity {
     private String id;
     private String userId;
     private String street;
-    private String number;
+    private Long number;
     private String locality;
     private String city;
     private String complement;
